@@ -55,7 +55,9 @@ MIT是和BSD一样宽范的许可协议,作者只想保留版权,而无任何其
 ![](https://raw2.github.com/suyan/suyan.github.io/5980bc3834ae47bef1de7aa2345842a3ab6ac771/public/upload/%E6%8A%80%E6%9C%AF/%E5%8D%8F%E8%AE%AE/licence-different.png)
 
 ##PS
-本文转自[阮一峰][7]，便于自己收藏，如有得罪，希望原作者海涵
+本文转自[阮一峰][7]，便于自己收藏，如有得罪，希望原作者海涵  
+也可以看下github官方<https://help.github.com/articles/open-source-licensing>如何给自己代码加上license
+
 
 ## 参考
 - <http://www.awflasher.com/blog/archives/939>
