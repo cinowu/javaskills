@@ -131,6 +131,7 @@ site：<http://www.sonarsource.org/>
 **19.lombok**  
 通过简单注解自动生成Java属性的getter和setter方法，还有构造方法等等，减少手工输入的代码量
 site：<http://www.projectlombok.org/>
+<http://www.oschina.net/translate/lombok-reduces-your-boilerplate-code>
 
 
 作者：[@岁月静好--似水流年](http://weibo.com/u/1747720793)  
