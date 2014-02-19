@@ -1,3 +1,8 @@
+#常用资源下载
+[apache commons](http://commons.apache.org/downloads/)
+[hadoop](http://archive.cloudera.com/cdh4/cdh/4/)
+[多贝](http://www.douban.com/group/378847/)
+
 #常用eclipse插件
 **1.activiti**  
 site：<http://activiti.org/designer/update/>  
