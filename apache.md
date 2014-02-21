@@ -8,5 +8,8 @@
 <http://mirrors.hust.edu.cn/apache/>  
 <http://mirror.esocc.com/apache/>
 
+##tomcat download
+<http://archive.apache.org/dist/tomcat/>
+
 ##commons download
 <http://commons.apache.org/downloads/>
