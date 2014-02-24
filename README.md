@@ -10,6 +10,7 @@ user guide：<http://www.activiti.org/userguide/index.html#activitiDesigner>
 
 **2.subersion**  
 site：<http://subclipse.tigris.org/update_1.8.x>
+site: <http://www.svnclub.com/index.php?q=node/125>
 
 **3.git**  
 site：<http://download.eclipse.org/egit/updates>
