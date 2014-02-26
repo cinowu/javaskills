@@ -13,3 +13,12 @@
 
 ##commons download
 <http://commons.apache.org/downloads/>
+
+##Struts2 download
+<http://mirrors.cnnic.cn/apache/struts/>
+
+##Hibernate download
+<http://sourceforge.net/projects/hibernate/files/>
+
+##Spring download
+<http://repo.spring.io/libs-release-local/org/springframework/spring/>
