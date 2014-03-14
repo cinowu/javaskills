@@ -26,7 +26,7 @@ site：<http://phpeclipse.sourceforge.net/update/stable/1.2.x/>
 
 **7.groovy**  
 site：<http://dist.springsource.org/release/GRECLIPSE/e4.3/>  
-site: <http://dist.codehaus.org/groovy/distributions/updateDev>
+离线包: <http://dist.springsource.org/snapshot/GRECLIPSE/e4.3/index.html>
 
 **8.maven**  
 site：<http://download.eclipse.org/technology/m2e/releases>
