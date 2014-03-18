@@ -46,6 +46,10 @@ site：<http://www.jrebel.com/features/frameworks/>
 **13.birt**
 site: <http://wiki.eclipse.org/BIRT_Update_Site_URL>
 
+**14.infinitest**  
+java连续测试框架  
+site: <http://infinitest.github.io/>  
+
 #其他eclipse插件
 **1.Quigen**  
 >这个插件利用Velocity模板引擎来快速生成任何类型的文本内容。它不需要进行配置，所要做的只是利用它自带Velocity编辑器编写一个velocity 模板文件。
